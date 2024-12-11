@@ -1,0 +1,13 @@
+{
+    "name": "zeldaclone",
+    "scripts": {
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "vite": "^2.3.8"
+    },
+    "dependencies": {
+        "@dimforge/rapier3d": "^0.6.0",
+        "three": "^0.132.2"}
+
+    }
