@@ -1,14 +1,17 @@
 {
-    "name": "zeldaclone",
-    "scripts": {
-        "dev": "vite"
-    },
-    "devDependencies": {
-        "vite": "^2.3.8"
-    },
-    "dependencies": {
-        "@dimforge/rapier3d": "^0.6.0",
-        "three": "^0.132.2",
-        "zeldaclone": "file:"
-    }
+  "name": "zelda_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "@dimforge/rapier3d": "^0.8.0",
+    "three": "^0.150.0",
+    "zelda_javascript": "file:"
+  },
+  "devDependencies": {
+    "vite": "^6.0.3"
+  }
 }
